@@ -14,3 +14,5 @@ tensorflow
 # Web scraping
 selenium
 webdriver-manager
+
+Flask
