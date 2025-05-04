@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Model dan tokenizer
+model_sentimen.h5
+tokenizer.pkl
+
+# Data
+data/komentar_twitter.csv
+data/labeled_data_full.csv
+
+# File log dan sementara
+*.log
+*.tmp
+
+# IDE atau editor konfigurasi
+.vscode/
+.idea/
+__pycache__/

@@ -1,0 +1,16 @@
+# Data handling & processing
+pandas
+
+# Visualisasi
+matplotlib
+wordcloud
+seaborn
+
+# Machine Learning & Deep Learning
+scikit-learn
+keras
+tensorflow
+
+# Web scraping
+selenium
+webdriver-manager
